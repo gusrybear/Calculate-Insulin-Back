@@ -1,0 +1,6 @@
+# all node module
+node_modules
+# environment file 
+.env
+# db json
+database.json
